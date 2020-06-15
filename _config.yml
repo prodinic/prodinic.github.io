@@ -83,3 +83,10 @@ defaults:
     values:
       layout: post
       read_time: true
+  # _assays
+  - scope:
+      path: "_assays"
+      type: assays
+    values:
+      layout: post
+      read_time: true
