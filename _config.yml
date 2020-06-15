@@ -20,7 +20,7 @@ description: I am a software engineer who likes to read and run.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: prodinic.github.io
 author:
-  name: Nick Park
+  name: prodinic
   twitter:
   picture:
 twitter_username:
