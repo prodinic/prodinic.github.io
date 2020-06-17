@@ -3,11 +3,15 @@ title: "About"
 layout: about
 ---
 
-This is Nick's tech blog sharing software engineering and experiences.
+## If you believe, you already got it
+This is Nick's tech blog sharing software engineering skill and knowledge and experiences in this field.
+Always be a entrepreneur.
 
-- Stories for being top software engineer
-- Careers 
+- Stories being a software engineer
 - Assays for books that I've read so far
-- Business
+- Business insights to share with others
 
-I like to read and run. I might upload contents about my hobbies in some days. 1
+**Characteristics:**
+
+* **MBTI:** ENFJ-A
+

@@ -1,0 +1,77 @@
+{
+  "basics": {
+    "name": "Nick Park",
+    "label": "",
+    "picture": "",
+    "email": "seonggyu.park.seoul@gmail.com",
+    "website": "https://prodinic.github.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Seoul",
+      "countryCode": "KR",
+      "region": ""
+    },
+    "profiles": [
+    ]
+  },
+  "work": [
+    {
+      "company": "Mathpresso",
+      "site": "Gangnam-gu, Seoul, Korea",
+      "position": "Math engine developer",
+      "website": "https://mathpresso.com",
+      "startDate": "2020-03",
+      "endDate": "2020-06",
+      "summary": "Mathpresso is one of the leading edu-tech software companies in the world offering personalized education platform called 'Qanda' standing for 'Question AND Answer'. ",
+      "highlights": [
+        "Implemented backend system of formula calculator suggesting solution line by line automatically",
+        "Developed math engine modules like linear equation and rationalization with Python3",
+        "Test driven development using Pytest",
+        "Built API converting Latex to image with Node.js"
+      ]
+    },
+    {
+      "company": "Magiceco",
+      "site": "Seongdong-gu, Seoul, Korea",
+      "position": "Full Stack Developer",
+      "website": "https://www.magice.co",
+      "startDate": "2019-07",
+      "endDate": "2019-09",
+      "summary": "Magiceco is the education company offering offline lecture with single board computer like Raspberry-pi, Arduino to students as a service.",
+      "highlights": [
+        "Developed invitation function between users in learning management system",
+        "Coded primarily using PHP and Javascript",
+        "1+ years of experience in MVC model such as Laravel",
+        "Experience in AWS Services like EC2, Route53 and RDS",
+        "Designed client-side of the application using PHP, HTML, CSS, Ajax, Json and Jquery"
+      ]
+    },
+    {
+      "company": "Nutragroup",
+      "site": "South San Francisco, California, US",
+      "position": "Software Engineer Intern",
+      "website": "https://thewh.ip",
+      "startDate": "2018-07",
+      "endDate": "2019-06",
+      "summary": "Nutragroup is E-commerce company. The company holds an exclusive account as an Amazon marketplace seller which is on Top 200 sellers in the world.",
+      "highlights": [
+        "Built backend system with external APIs analysing price data in PHP",
+        "Designed Responsive Web Application in HTML, CSS, Bootstrap, Jquery and Ajax",
+        "Refactored legacy codes and decreased the number of lines by 75% in the main controller",
+        "Worked with cross-functional team and familiar with agile build and development process",
+        "Developed ERP system"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Sogang University",
+      "area": "Computer science and engineering",
+      "studyType": "Bachelor",
+      "startDate": "2013-03-02",
+      "endDate": "2020-02-28"
+    }
+  ]
+}

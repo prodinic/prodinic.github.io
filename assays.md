@@ -1,5 +1,5 @@
 ---
-title: Assays
+title: Assay
 layout: collection
 permalink: /assays/
 collection: assays

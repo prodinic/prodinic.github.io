@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Prodinic's Blog
+title: Prodinic's blog
 email: seonggyu.park.seoul@gmail.com
 description: I am a software engineer who likes to read and run.
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -25,6 +25,8 @@ author:
   picture:
 twitter_username:
 github_username: prodinic
+facebook_username: sungkyu.park.589
+linkedin_username: searchingstar
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 masthead_title:
 # Build comments function. Default is false.

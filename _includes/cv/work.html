@@ -2,6 +2,7 @@
   <div id="work" class="entry">
     <header class="entry-header">
       <h3 class="entry-title">Work</h3>
+
     </header>
 
     <div class="entry-content">
@@ -10,8 +11,10 @@
           <h3 class="name">
             {% if w.website %}
               <a href="{{ w.website }}">{{ w.company }}</a>
+              <h5 align="left">{{ w.site }}</h5>
             {% else %}
               {{ w.company }}
+              {{ w.site }}
             {% endif %}
           </h3>
         {% endif %}
