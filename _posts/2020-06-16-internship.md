@@ -1,5 +1,5 @@
 ---
-title: "Awesome startup in Korea"
+title: "My first internship in real startup"
 categories:
   - Experience
 tags:
@@ -7,8 +7,10 @@ tags:
   - Mathpresso
   - People
   - title
+
 last_modified_at: 2017-03-09T12:25:10-05:00
 ---
+<img src="/assets/images/mathpresso.jpg" class="align-left" alt="">
 
 Since March this year, I've worked for Mathpresso as software engineer intern in Korea. As I left only 2 weeks,
 I wanted to end up with some articles about experiences in this company. This company gave me good memories and 
@@ -34,8 +36,10 @@ languages simultaneously.
 
 * Teamwork and culture
 
-Every team has their own cultures. However, I pretty sure that our team is one of teams which have awesome cultures and 
-teamwork. We could work remotely once a week. However, code is managed strictly. Code review is required and
+Every team has their own cultures. I bet that our team is one of teams having good cultures and 
+teamwork. We could work remotely once a week. Furthermore, All you have to do is stay at office 11:00am - 5:00pm. Other than that, 
+you can do whatever you want. For instance, you can enjoy your morning time completely. However for development aspect, 
+you will expect that code is managed strictly. Code review is required and
 It is hard to get accepted at once. We had scrum meeting everyday. We share what we did and what we are going to
 do today and challenges. Sometimes, it is tough but challenging.
 
