@@ -20,9 +20,10 @@ description: "Your new default Jekyll theme"
 baseurl: "/example"  # the subpath of your site, e.g. /blog
 url: ""  # the base hostname & protocol for your site, e.g. http://example.com
 author:
-  name: Dugan Nash
-  twitter: Towlette_Pettetucci
-  picture: /assets/images/johndoe.png
+  name              : Dugan Nash
+  twitter           : Towlette_Pettetucci
+  picture           : /assets/images/johndoe.png
+  facebook          : "sungkyu.park.589"
 twitter_username: Towlette_Pettetucci
 github_username: Towlette_Pettetucci
 logo: /assets/icons/basically-basic-logo-light.svg
@@ -35,7 +36,18 @@ algolia:
   search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
   powered_by: # true (default), false
 
-# Liquid
+comments: # 댓글 설정에 대한부분입니다. 기본적으로 false 로 되어있습니다.
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  disqus:   #개인적으로 disqus 댓글 모듈을 사용하였습니다.
+    shortname            : prodinic-github-io # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+
 liquid:
   error_mode: strict
 
@@ -81,10 +93,20 @@ defaults:
     values:
       layout: post
       read_time: true
-  # _recipes
+      comments: true
+
+  # _assays
   - scope:
-      path: "_recipes"
-      type: recipes
+      path: "_assays"
+      type: assays
     values:
       layout: post
       read_time: true
+      comments: true
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/devinlife"

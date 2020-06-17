@@ -35,6 +35,19 @@ algolia:
   search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 
+# Build comments function. Default is false.
+comments:
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  disqus:   #개인적으로 disqus 댓글 모듈을 사용하였습니다.
+    shortname            : prodinic-github-io # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+
 # Build settings
 markdown: kramdown
 remote_theme: prodinic-basic-theme
@@ -83,6 +96,8 @@ defaults:
     values:
       layout: post
       read_time: true
+      comments: true
+
   # _assays
   - scope:
       path: "_assays"
@@ -90,3 +105,4 @@ defaults:
     values:
       layout: post
       read_time: true
+      comments: true
