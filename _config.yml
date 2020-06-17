@@ -18,7 +18,7 @@ title: Prodinic's Blog
 email: seonggyu.park.seoul@gmail.com
 description: I am a software engineer who likes to read and run.
 baseurl: # the optional subpath of your site, e.g. "/blog"
-url: prodinic.github.io
+url: https://prodinic.github.io
 author:
   name: prodinic
   twitter:
