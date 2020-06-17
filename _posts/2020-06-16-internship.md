@@ -22,7 +22,7 @@ AND Answer'. All problems enrolled from students are dealt with by Top-level col
 solutions. The coverage is spreading out not only Math but Science and English. At the same time, 
 Using AI and big data, they suggest personalized and customized contents to users and 
 achieve to be a best contents provider in education market in Korea. This ambitious company seeks to be Google
-and Youtube over the world.
+and Youtube in education field over the world.
 
 
 

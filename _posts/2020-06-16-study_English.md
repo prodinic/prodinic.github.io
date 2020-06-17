@@ -3,13 +3,15 @@ title: "My character based on MBTI test!"
 categories:
   - Markdown
 tags:
-  - 인턴쉽
+  - MBTI
   - 
   - title
 last_modified_at: 2017-03-09T12:25:10-05:00
 ---
 
-Since last week, I've participated in English study group to increase my verbal skill. I picked current situation of Cov-19 in US as topic 
+Since last week, I've participated in English study group to increase my verbal skill. 
+We talked each other with topics that members want to share.
+I selected current situation of Cov-19 in US as topic 
 last week. It was interesting but at the same time it was too specific. Unless you catch up with what happens in US, 
 it was hard to tell. That's why I expected today's title. 
 
