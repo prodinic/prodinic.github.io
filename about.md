@@ -3,10 +3,10 @@ title: "About"
 layout: about
 ---
 
-이 블로그는 Nick의 지극히 개인적인 블로그입니다. 여러 주제를 깊게 이야기하고 싶습니다. 
+This is Nick's tech blog sharing software engineering.
 
-- 소프트웨어 엔지니어에 관한 이야기 그리고 관련 경험들
-- 나의 커리어와 준비하는 여러 가지
-- 킬링 타임용으로 독서하자! 
+- Stories for being top software engineer
+- My careers 
+- Reading various books 
 
-주변을 돌아볼 줄 아는 여유로운 사람이 되는 것이 삶의 목표입니다. 
+I like to read and run. I might upload contents about my hobbies in some days.

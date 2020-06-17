@@ -1,16 +1,29 @@
 ---
-title: "28.5살의 인턴쉽3 갈무리"
+title: "Awesome startup in Korea"
 categories:
   - Markdown
 tags:
-  - 인턴쉽
-  - 
+  - Internship
+  - Mathpresso
+  - People
   - title
 last_modified_at: 2017-03-09T12:25:10-05:00
 ---
 
-매스프레소에서 인턴쉽이 2주 밖에 남지 않았다. 벌써 3개월을 다 되어 간다는 것이 믿기지 않는다. 문득 내가 했던 일들을 가볍게 정리해보고 싶은
-생각이 들었다. 돌이켜 보면 매우 좋은 기억들이 많다.
+Since March this year, I've worked for Mathpresso as software engineer intern in Korea. As I left only 2 weeks,
+I wanted to end up with some articles about experiences in this company. This company gave me good memories and 
+nice friends. What I'm going to share is what kind of works this company do and people in Mathpresso.
+
+
+* Who is Mathpresso?
+
+Mathpresso is leading edu-tech company in Korea running their own education platform called 'Qanda' standing for 'Question 
+AND Answer'. All problems enrolled from students are dealt with by Top-level college teachers giving a snapshot of 
+solutions. The coverage is spreading out not only Math but Science and English. At the same time, 
+Using AI and big data, they suggest personalized and customized contents to users and 
+achieve to be a best contents provider in education market in Korea. This ambitious company seeks to be Google
+and Youtube over the world.
+
 
 
 **`page.title` example:**
