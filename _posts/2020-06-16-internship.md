@@ -1,7 +1,7 @@
 ---
 title: "Awesome startup in Korea"
 categories:
-  - Markdown
+  - Experience
 tags:
   - Internship
   - Mathpresso

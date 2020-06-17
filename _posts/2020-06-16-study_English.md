@@ -1,7 +1,7 @@
 ---
 title: "My character based on MBTI test!"
 categories:
-  - Markdown
+  - Experience
 tags:
   - MBTI
   - 
