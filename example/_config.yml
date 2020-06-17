@@ -41,7 +41,7 @@ liquid:
 
 # Build settings
 markdown: kramdown
-theme: prodinic-basic-theme
+remote_theme: prodinic-basic-theme
 plugins: # previously gems
   - jekyll-feed
   - jekyll-seo-tag
