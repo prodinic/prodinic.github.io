@@ -6,7 +6,6 @@ tags:
   - Internship
   - Mathpresso
   - People
-  - title
 
 last_modified_at: 2017-03-09T12:25:10-05:00
 ---
@@ -42,12 +41,3 @@ you can do whatever you want. For instance, you can enjoy your morning time comp
 you will expect that code is managed strictly. Code review is required and
 It is hard to get accepted at once. We had scrum meeting everyday. We share what we did and what we are going to
 do today and challenges. Sometimes, it is tough but challenging.
-
- 
-
-
-**`page.title` example:**
-
-```yaml
-title: "Markup: Title *with* **Markdown**""
-```

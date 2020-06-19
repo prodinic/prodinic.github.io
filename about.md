@@ -4,8 +4,10 @@ layout: about
 ---
 
 ## If you believe, you already got it
-This is Nick's tech blog sharing software engineering skill and knowledge and experiences in this field.
-Always be a entrepreneur.
+This is Nick's tech blog sharing software engineering skill and knowledge and experiences.
+
+
+Always be an entrepreneur.
 
 - Stories being a software engineer
 - Assays for books that I've read so far

@@ -1,11 +1,11 @@
 ---
-title: "My character based on MBTI test!"
+title: "Why MBTI is so hot in Korea?"
 categories:
   - Experience
 tags:
   - MBTI
-  - 
-  - title
+  - Korea
+  
 last_modified_at: 2017-03-09T12:25:10-05:00
 ---
 
@@ -19,10 +19,3 @@ MBTI stands for Myers–Briggs Type Indicator (MBTI) which is an introspective s
 Based on this test, we could talk each other for themselves. It wasn't easy to tell someone's story to others. 
 Even in Korea, It is awkward in some aspects. On top of that, It looks hard to understand the background why they've had those characteristics.
 Regardless of these facts, It was fun experience for us to tell ourselves.   
-
-
-**`page.title` example:**
-
-```yaml
-title: "Markup: Title *with* **Markdown**""
-```
